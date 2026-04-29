@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+fastapi
+uvicorn
+langchain
+chromadb
+sentence-transformers
+google-generativeai
+pandas
+scikit-learn
+joblib
+python-dotenv
+=======
+fastapi
+uvicorn
+groq
+langchain
+langchain-chroma
+chromadb
+python-dotenv
+>>>>>>> 1eba14f7b45a70a1cf2bff915dd3d995e4b5d2e3
